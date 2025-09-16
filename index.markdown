@@ -16,7 +16,7 @@ A tool to embed a GitHub contributions grid to any web page.
 
 #### 3D Cube Puzzle
 
-![3D Cube Puzzle](images/cube.jpg)
+![3D Cube Puzzle](images/cube.png)
 
 An online version of a cube puzzle built with LEGO&reg; bricks.
 
